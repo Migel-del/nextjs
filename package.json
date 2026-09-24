@@ -1,0 +1,13 @@
+{
+  "name": "telemetry-collector",
+  "version": "1.0.0",
+  "description": "Telemetry service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.x"
+  }
+}
